@@ -1,2 +1,2 @@
-exports.token = 'NjE1NjE1OTEwNTQzMzYwMDIw.XWQoDw.05tVIfCJDk1kNLW19iDertPyJmE',
+exports.token = process.env.TOKEN,
 exports.prefix = '*'
